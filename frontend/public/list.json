@@ -1,0 +1,93 @@
+{
+  "mealPlans": [
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Brown rice with dal and salad",
+        "snack": "Cucumber slices with hummus",
+        "dinner": "Vegetable stir-fry with tofu"
+      }
+    },
+    {
+      "bmiRange": "29-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Green smoothie with kale and berries",
+        "lunch": "Whole grain pasta with marinara sauce and salad",
+        "snack": "Celery sticks with almond butter",
+        "dinner": "Grilled portobello mushrooms with quinoa"
+      }
+    },
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Multigrain paratha with yogurt",
+        "lunch": "Paneer curry with chapati and salad",
+        "snack": "Fruit chaat",
+        "dinner": "Vegetable pulao with raita"
+      }
+    },
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Oatmeal with nuts and berries",
+        "lunch": "Dal with steamed rice and mixed vegetables",
+        "snack": "Sprouts salad",
+        "dinner": "Vegetable soup with whole grain bread"
+      }
+    },
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Vegetable juice with multigrain toast",
+        "lunch": "Steamed vegetables with dal and chapati",
+        "snack": "Fruit salad",
+        "dinner": "Mixed lentil soup with whole grain bread"
+      }
+    },
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Fruit salad with nuts",
+        "lunch": "Brown rice with mixed vegetable curry",
+        "snack": "Apple slices with peanut butter",
+        "dinner": "Lentil soup with salad"
+      }
+    },
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Green smoothie with kale and berries",
+        "lunch": "Whole grain pasta with marinara sauce and salad",
+        "snack": "Celery sticks with almond butter",
+        "dinner": "Grilled portobello mushrooms with quinoa"
+      }
+    },
+
+    {
+      "bmiRange": "25-29.9",
+      "diet": "veg",
+      "cuisine": "Indian",
+      "plan": {
+        "breakfast": "Greek yogurt with granola and honey",
+        "lunch": "Grilled vegetable sandwich with soup",
+        "snack": "Apple slices with peanut butter",
+        "dinner": "Stir-fried tofu with quinoa"
+      }
+    }
+  ]
+}
